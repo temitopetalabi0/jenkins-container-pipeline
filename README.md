@@ -11,7 +11,7 @@ A simple HTML website for teaching Jenkins CI/CD pipeline with Docker deployment
 └── README.md       # This file
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### View Website Locally
 Open `index.html` directly in your browser to see the design.
