@@ -146,6 +146,8 @@ docker logs <container-id>
 - Verify DockerHub credentials in Jenkins
 - Test manual login: `docker login`
 
+## Good for simle demo
+
 ## 📚 Perfect for Teaching Because:
 
 - **Visual Results** - Students see a beautiful webpage, not just logs
